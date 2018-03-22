@@ -53,6 +53,8 @@ __Ежесеместровый Feedback для обеспечения двухс
 <!-- Ishikawa diagram -->
 ![Диаграмма Исикавы](https://github.com/Beraliv/innovative-management-feedback/blob/master/src/imgs/ishikawa-ru.jpg)
 
+> Для формирования диаграммы использовался ресурс [RT Board](https://realtimeboard.com)
+
 ## Объяснения необходимости безотлагательных действий
 
 
